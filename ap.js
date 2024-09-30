@@ -1,7 +1,7 @@
 
 
 // active navbar
-let nav = document.querySelector(".navigation-wrap");
+let nav = document.querySelector(".navigation-wrapg");
 window.onscroll = function () {
     if(document.documentElement.scrollTop  > 20){
         nav.classList.add("scroll-on");
